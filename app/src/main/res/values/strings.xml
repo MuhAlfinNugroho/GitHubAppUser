@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHubAppUser</string>
+    <string name="username">UserName</string>
+    <string name="search_bar">Cari Username Disini...</string>
+    <string name="search_view">Mau Cari Siapa ?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Daftar Favorite Anda</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="user">Detail User</string>
+    <string name="main">GitHub User</string>
+    <string name="follower">%d Followers</string>
+    <string name="follow">%d Following</string>
+    <string name="nama">Nama</string>
+    <string name="setting_mode">Dark Mode</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="menu_favorite">Menu Favorite</string>
+    <string name="menu_setting">Menu Pengaturan</string>
+</resources>
